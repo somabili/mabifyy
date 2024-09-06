@@ -1,0 +1,76 @@
+body {
+    color: black;
+    background: rgb(205, 195, 225);
+    
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(161, 58, 58)
+}
+
+ .cabeçalho {
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-family: "Baskervville SC", serif;
+}
+
+.prêmios { background-color: rgb(255, 255, 255);
+ 
+
+}
+
+.prêmios2 {
+   background-color: aliceblue;
+
+}
+
+.prêmios3 {
+background-color: aliceblue;
+
+}
+
+.prêmios4 {
+background-color: aliceblue;
+
+}
+
+.prêmios5 {
+background-color: aliceblue;
+
+}
+
+.prêmios6 {
+background-color: aliceblue;
+
+}
+
+.prêmios7{
+background-color: aliceblue;
+
+}
+
+.prêmios8 {
+background-color: aliceblue;
+
+}
+
+.prêmios9 {
+background-color: aliceblue;
+
+}
+
+.prêmios10 {
+background-color: aliceblue;
+
+}
+
+.finalização {
+background-color: aliceblue;
+
+}
